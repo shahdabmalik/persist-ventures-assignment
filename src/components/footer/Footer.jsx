@@ -2,7 +2,7 @@ import { Link } from "react-router-dom"
 
 const Footer = () => {
     return (
-        <div className="grid gap-10 sm:grid-cols-2 md:grid-cols-3 my-20 pt-20" >
+        <div className="grid gap-10 sm:grid-cols-2 md:grid-cols-3 mt-32 mb-10 pt-10 border-t border-cyan-700" >
             <div >
                 <p className="font-semibold" >#rabbithole</p>
                 <div className="text-sm grid grid-cols-1 gap-3 mt-3 " >
