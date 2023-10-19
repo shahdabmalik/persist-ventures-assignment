@@ -5,7 +5,7 @@ import Lottie from "lottie-react"
 
 const SectionOne = () => {
     return (
-        <div>
+        <div className="pt-16" >
             <div className="flex flex-col-reverse md:flex-row gap-10 justify-between items-center my-16" >
                 <div className="w-full md:w-1/2 lg:w-2/3 text-center md:text-start">
                     <h1 className="font-inter text-3xl sm:text-4xl font-bold text-white lg:w-2/3" >The Intelligence Amplification Company</h1>

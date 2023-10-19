@@ -6,7 +6,7 @@ import SectionTwo from './SectionTwo'
 
 const Home = () => {
     return (
-        <div className="max-w-screen-xl mx-auto px-5 overflow-hidden min-h-screen " >
+        <div className="max-w-screen-xl mx-auto px-5 xl:px-0 overflow-hidden min-h-screen " >
             <Navbar />
             <SectionOne />
             <SectionTwo />
